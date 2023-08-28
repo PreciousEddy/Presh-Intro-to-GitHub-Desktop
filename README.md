@@ -59,3 +59,4 @@ Remember, while GitHub Desktop is a powerful tool, the best results in a DevOps 
 ---
 For the Part 1 of a well more detailed aspect of this Process, click here
 
+[GitHub with DevOps: README Part 1](https://github.com/PreciousEddy/Presh-Intro-to-GitHub-Desktop/blob/main/GitHub%20with%20DevOps%3A%20Part%201/Github%20with%20DevOps%3A%20Part%201.md#github-with-devops-readme-part-1)
